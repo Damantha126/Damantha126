@@ -18,7 +18,9 @@ You can use the website to generate badges: https://shields.io/
 
 
 ### My Github Status
-![Damantha Jasinghe's GitHub Status](https://github-readme-stats.vercel.app/api?username=Damantha126&theme=dark&show_icons=true)
+![Damantha Jasinghe's github stats](https://github-readme-stats.vercel.app/api?username=Damantha126&show_icons=true&theme=midnight-purple)
+- ![Profile views](https://gpvc.arturio.dev/Damantha126)
+- [![GitHub followers](https://img.shields.io/github/followers/Damantha126.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Damantha126?tab=followers)
 
 - ![Profile views](https://gpvc.arturio.dev/Damantha126)
 
@@ -41,17 +43,9 @@ You can use the website to generate badges: https://shields.io/
 
 <p align ="left">
   <br />
-  <code><img width="10%"  src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"></code>
-  <code><img width="10%"   src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
   <code><img width="10%"   src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
-  <br />
-  <code><img width="10%"  src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
-  <code><img width="10%"  src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"></code>
-  <code><img width="10%"  src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"></code>
-  <br />
-  <code><img width="10%"  src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
+  <br /
   <code><img width="10%"  src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
-  <code><img width="10%"  src="https://www.vectorlogo.zone/logos/gitlab/gitlab-ar21.svg"></code>
   <br>
 </p>  
 
