@@ -22,7 +22,6 @@ You can use the website to generate badges: https://shields.io/
 - ![Profile views](https://gpvc.arturio.dev/Damantha126)
 - [![GitHub followers](https://img.shields.io/github/followers/Damantha126.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Damantha126?tab=followers)
 
-- ![Profile views](https://gpvc.arturio.dev/Damantha126)
 
 
 <p align="left"> <a target="_blank" href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Damantha126&theme=alduin" alt="Damantha126" /></a> </p>
