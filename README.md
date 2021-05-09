@@ -9,7 +9,7 @@ You can use the website to generate badges: https://shields.io/
 
 -  🚶‍ &nbsp; I live in : Sri Lanka 🇱🇰  <br>
 -  🔭 I’m currently working on : Damantha Jasinghe👻 Corporation  <br>
--  📚 I went to :  Galahitiyawa Central College  <br>
+-  📚 I went to :  Morawaka national school.  <br>
 -  👯 I’m looking to collaborate : ![github](https://img.shields.io/badge/On-Github-black)  <br>
 -  🤔 I’m looking for help : For  Me  <br>
 -  💬 Ask me about : ![Telegram](https://img.shields.io/badge/Go%20to-https://t.me/Damantha_Jasinghe-brightgreen) <br>
