@@ -12,9 +12,7 @@ You can use the website to generate badges: https://shields.io/
 -  📚 I went to :  Morawaka national school.  <br>
 -  👯 I’m looking to collaborate : ![github](https://img.shields.io/badge/On-Github-black)  <br>
 -  🤔 I’m looking for help : For  Me  <br>
--  💬 Ask me about : ![Telegram](https://img.shields.io/badge/Go%20to-https://t.me/Damantha_Jasinghe-brightgreen) <br>
--  ⚡ Fun fact: I'm just an ![age](https://img.shields.io/badge/Age-14-yellow) Teen 😄
--  📫 How to reach me : ![contact](https://img.shields.io/badge/Contact%20me-On%20Telegram-blue)
+-  💬 Ask me about : ![Telegram](https://img.shields.io/badge/Go%20to-https://t.me/Damantha_Jasinghe-brightgreen) <br>-  📫 How to reach me : ![contact](https://img.shields.io/badge/Contact%20me-On%20Telegram-blue)
 
 
 ### My Github Status
