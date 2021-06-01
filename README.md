@@ -1,7 +1,8 @@
 # Hey, I am Damantha Jasinghe<img src="https://camo.githubusercontent.com/2c8b3670d933220ae3c023fa1d568682975cce3f10799d0d3ff5ecac394b4ee8/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f31326f75664342304d795a31476f2f67697068792e676966" width="50px">
+<a href="https://t.me/TheAnkiVectorbot"><img align='centre' src='https://telegra.ph/file/e10a45d0433a1ab6fed7b.jpg' width='500"'> </a>
 
 
-<p align="center"><img src="https://user-images.githubusercontent.com/49580304/110318584-81067880-7fc2-11eb-8391-152d308e7f2b.gif" alt="Bt" />
+<p align="left"><img src="https://user-images.githubusercontent.com/49580304/110318584-81067880-7fc2-11eb-8391-152d308e7f2b.gif" alt="Bt" />
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
@@ -16,13 +17,14 @@ You can use the website to generate badges: https://shields.io/
 
 
 ### My Github Status
-![Damantha Jasinghe's github stats](https://github-readme-stats.vercel.app/api?username=Damantha126&show_icons=true&theme=midnight-purple)
+ <a href="https://github.com/Damantha126/handle-path-oz">
+    <img align="center" alt="Damantha Jasinghe's github stats" src="https://github-readme-stats.vercel.app/api?username=Damantha126&show_icons=true&theme=midnight-purple" />
+  </a>
+  
 - ![Profile views](https://gpvc.arturio.dev/Damantha126)
 - [![GitHub followers](https://img.shields.io/github/followers/Damantha126.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Damantha126?tab=followers)
-
-
-
-<p align="left"> <a target="_blank" href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Damantha126&theme=alduin" alt="Damantha126" /></a> </p>
+  
+<p align="center"> <a target="_blank" href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Damantha126&theme=alduin" alt="Damantha126" /></a> </p>
 
 
 
