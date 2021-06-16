@@ -29,7 +29,14 @@ You can use the website to generate badges: https://shields.io/
 
 
 
+# Contribution Graph
 
+<p align="center">
+  <a href="https://github.com/Damantha126">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Damantha126#version3"/>
+  </a>
+</p>
+<a href="h
 
 
 <a href="https://github.com/Damantha126"><img alt="Damantha Jasinghe's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Damantha126&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
