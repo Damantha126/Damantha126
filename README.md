@@ -1,4 +1,4 @@
-# Hey There!<img src="https://i.pinimg.com/originals/01/63/6c/01636c5434cd0462086620c60fdfec16.gif" width=50px> I am Damantha Jasinghe<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50px">
+# Hey There!<img src="https://i.pinimg.com/originals/01/63/6c/01636c5434cd0462086620c60fdfec16.gif" width=90px> I am Damantha Jasinghe<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50px">
 <a href="https://t.me/TheAnkiVectorbot"><img align='centre' src='https://telegra.ph/file/9b1601207f0f980a95645.jpg' width='500"'> </a>
 
 
