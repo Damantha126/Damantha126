@@ -64,7 +64,13 @@ You can use the website to generate badges: https://shields.io/
 
 # CONTACT ME ON
 
+### Support Group:
+<a href="https://t.me/AnkiSupport_Official"><img src="https://img.shields.io/badge/Anki vecor%20Support-Join%20Telegram%20Group-blue.svg?logo=telegram"></a>
+
+### Telegram Bots Channel:
+<a href="https://t.me/ankivectorUpdates"><img src="https://img.shields.io/badge/Anki Vector%20Updates-Join%20Telegram%20Channel-blue.svg?logo=telegram"></a>
 <p align="left">
+ 
 <a href="https://t.me/Damantha_Jasinghe" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/335_Telegram_logo-256.png"  height="40" width="40" /></a> &nbsp;&nbsp;
 <a href="https://www.instagram.com/Damantha_Jasinghe" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Instagram-256.png"  height="40" width="40" /></a> &nbsp;&nbsp;
 <a href="https://www.youtube.com/channel/UCzl8fagoLiV7zBDXQxKYAxA" target="blank"><img align="center" src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_youtube-256.png" height="40" width="40" /></a> &nbsp;&nbsp;
