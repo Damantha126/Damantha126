@@ -32,7 +32,7 @@ You can use the website to generate badges: https://shields.io/
 
 
 
-
+<a href="https://github.com/Damantha126"><img alt="Damantha Jasinghe's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Damantha126&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
 
 
@@ -56,6 +56,7 @@ You can use the website to generate badges: https://shields.io/
   <code><img width="10%"  src="https://www.vectorlogo.zone/logos/gitlab/gitlab-ar21.svg"></code>
   <br>
 </p>  
+
 
 
 # MOST USED LANGUAGES
