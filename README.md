@@ -1,5 +1,5 @@
 # Hey There!<img src="https://i.pinimg.com/originals/01/63/6c/01636c5434cd0462086620c60fdfec16.gif" width=90px>I am Damantha Jasinghe<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50px">
-<a href="https://t.me/TheAnkiVectorbot"><img align='centre' src='https://telegra.ph/file/9b1601207f0f980a95645.jpg' width='500"'> </a>
+<a href="https://t.me/TheAnkiVectorbot"><img align='centre' src='https://telegra.ph/file/9fba89118d9cdabdd6f1a.png' width='500"'> </a>
 
 
 <p align="left"><img src="https://user-images.githubusercontent.com/49580304/110318584-81067880-7fc2-11eb-8391-152d308e7f2b.gif" alt="Bt" />
