@@ -71,6 +71,14 @@ You can use the website to generate badges: https://shields.io/
 
 # CONTACT ME ON
 
+<!-- Your badges
+You can use the website to generate badges: https://shields.io/
+-->
+| <a href="https://t.me/Damantha_Jasinghe"><img src="https://telegra.ph/file/05f8817a93ed451403600.jpg" width="150px" height="150px" /></a> |
+|:---------------------------------------------------------------------------------------------------------------------------------------: |
+|       **[𝓓𝓪𝓶𝓪𝓷𝓽𝓱𝓪 𝓙𝓪𝓼𝓲𝓷𝓰𝓱𝓮](https://t.me/damantha_jasinghe)**                                                                                |
+| <a href="https://github.com/damantha126"><img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="32px" height="32px"></a>                                                                   
+                                                                     
 ### Support Group:
 <a href="https://t.me/AnkiSupport_Official"><img src="https://img.shields.io/badge/Anki vecor%20Support-Join%20Telegram%20Group-blue.svg?logo=telegram"></a>
 
