@@ -1,16 +1,14 @@
 # Hey There!<img src="https://i.pinimg.com/originals/01/63/6c/01636c5434cd0462086620c60fdfec16.gif" width=90px>I am Damantha Jasinghe<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50px">
-<a href="https://t.me/TheAnkiVectorbot"><img align='centre' src='https://telegra.ph/file/9fba89118d9cdabdd6f1a.png' width='500"'> </a>
 
 
-<p align="left"><img src="https://user-images.githubusercontent.com/49580304/110318584-81067880-7fc2-11eb-8391-152d308e7f2b.gif" alt="Bt" />
+<img src="https://github.com/rixon-cochi/rixon-cochi/raw/main/IMG/Hack-This-SIte-Basic-9-ngr-5QXatUvRfM.gif" style="max-width:100%;">
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
 -->
 
 -  🚶‍ &nbsp; I live in : Sri Lanka 🇱🇰  <br>
--  🔭 I’m currently working on : Damantha Jasinghe👻 Corporation  <br>
--  📚 I went to :  Morawaka national school.  <br>
+-  🔭 I’m currently working on : Dtech Corporation  <br>
 -  👯 I’m looking to collaborate : ![github](https://img.shields.io/badge/On-Github-black)  <br>
 -  🤔 I’m looking for help : For  Me  <br>
 -  💬 Ask me about : ![Telegram](https://img.shields.io/badge/Go%20to-https://t.me/Damantha_Jasinghe-brightgreen) <br>
