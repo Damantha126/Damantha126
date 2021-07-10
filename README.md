@@ -19,7 +19,7 @@ You can use the website to generate badges: https://shields.io/
  <a href="https://github.com/Damantha126/handle-path-oz">
     <img align="center" alt="Damantha Jasinghe's github stats" src="https://github-readme-stats.vercel.app/api?username=Damantha126&show_icons=true&theme=midnight-purple" />
   </a>
-  <a href="https://github.com/Damantha126"><img alt="Damantha's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Damantha126&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+
   
 - ![Profile views](https://gpvc.arturio.dev/Damantha126)
 - [![GitHub followers](https://img.shields.io/github/followers/Damantha126.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Damantha126?tab=followers)
@@ -37,7 +37,7 @@ You can use the website to generate badges: https://shields.io/
 </p>
 <a href="h
 
-
+  <a href="https://github.com/Damantha126"><img alt="Damantha's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Damantha126&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
 
 
