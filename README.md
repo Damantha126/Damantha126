@@ -11,7 +11,7 @@ You can use the website to generate badges: https://shields.io/
 -  🔭 I’m currently working on : Dtech Corporation  <br>
 -  👯 I’m looking to collaborate : ![github](https://img.shields.io/badge/On-Github-black)  <br>
 -  🤔 I’m looking for help : For  Me  <br>
--  💬 Ask me about : ![Telegram](https://img.shields.io/badge/Go%20to-https://t.me/Damantha_Jasinghe-brightgreen) <br>
+-  💬 Ask me about : ![WebSite](https://img.shields.io/badge/Go%20to-https://damantha.ga-brightgreen) <br>
 -  📫 How to reach me : ![contact](https://img.shields.io/badge/Contact%20me-On%20Telegram-blue)
 
 
@@ -20,7 +20,7 @@ You can use the website to generate badges: https://shields.io/
     <img align="center" alt="Damantha Jasinghe's github stats" src="https://github-readme-stats.vercel.app/api?username=Damantha126&show_icons=true&theme=midnight-purple" />
   </a>
 
-  
+ 
 - ![Profile views](https://gpvc.arturio.dev/Damantha126)
 - [![GitHub followers](https://img.shields.io/github/followers/Damantha126.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Damantha126?tab=followers)
   
