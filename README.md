@@ -16,19 +16,22 @@ You can use the website to generate badges: https://shields.io/
 
 
 ### My Github Status
+
  <a href="https://github.com/Damantha126/handle-path-oz">
     <img align="center" alt="Damantha Jasinghe's github stats" src="https://github-readme-stats.vercel.app/api?username=Damantha126&show_icons=true&theme=midnight-purple" />
   </a>
 
- 
+<br>
+<br>
+
 - ![Profile views](https://gpvc.arturio.dev/Damantha126)
 - [![GitHub followers](https://img.shields.io/github/followers/Damantha126.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Damantha126?tab=followers)
   
-<p align="center"> <a target="_blank" href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Damantha126&theme=alduin" alt="Damantha126" /></a> </p>
+
+<p align="center"> <a href="https://github.com/Damantha126"><img src="https://github-profile-trophy.vercel.app/?username=Damantha126&no-bg=true" alt="Damantha126" /></a> </p>
 
 
-
-# Contribution Graph
+# Contribution Graph <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" width=100px>
 
 <p align="center">
   <a href="https://github.com/Damantha126">
@@ -90,3 +93,7 @@ You can use the website to generate badges: https://shields.io/
 <a href="https://www.youtube.com/channel/UCzl8fagoLiV7zBDXQxKYAxA" target="blank"><img align="center" src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_youtube-256.png" height="40" width="40" /></a> &nbsp;&nbsp;
 <a href="https://twitter.com/DamanthaJ" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter_colored_svg-256.png" height="40" width="40" /></a> &nbsp;&nbsp;
 </p>
+
+                                                              
+ **Visitors Count**  
+![VisitorCount](https://profile-counter.glitch.me/{Damantha126}/count.svg)
