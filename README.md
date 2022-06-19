@@ -1,4 +1,4 @@
-# Hey There! I am Damantha Jasinghe<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px">
+# Hey There! I am Damantha Jasinghe<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50px" height="50px">
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
 -->
@@ -20,7 +20,9 @@ You can use the website to generate badges: https://shields.io/
 
 
 ## My Github Status📊
-![Metrics](https://metrics.lecoq.io/Damantha126?template=classic&people=1&code=1&activity=1&repositories=1&introduction=1&stars=1&languages=1&followup=1&achievements=1&discussions=1&notable=1&isocalendar=1&lines=1&gists=1&pagespeed=1&stackoverflow=1&tweets=1&repositories=100&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&isocalendar.duration=full-year&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&stars.limit=4&followup.sections=repositories&followup.indepth=false&people.limit=24&people.identicons=false&people.size=28&people.types=followers%2C%20following&people.thanks=DamanthaOnline&people.shuffle=false&code.lines=12&code.load=100&code.visibility=public&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=false&activity.filter=all&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&notable.from=all&notable.repositories=false&notable.indepth=false&discussions.categories=true&discussions.categories.limit=0&introduction.title=true&pagespeed.url=.user.website&pagespeed.detailed=false&pagespeed.screenshot=false&stackoverflow.user=15638039&stackoverflow.sections=answers-top%2C%20questions-recent&stackoverflow.limit=2&stackoverflow.lines=4&stackoverflow.lines.snippet=2&tweets.attachments=false&tweets.limit=2&tweets.user=.user.twitter&config.timezone=Asia%2FColombo)
+![Metrics](https://metrics.lecoq.io/damantha126?template=classic&stars=1&followup=1&isocalendar=1&achievements=1&pagespeed=1&code=1&languages=1&base.indepth=false&base.hireable=false&isocalendar.duration=half-year&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&stars.limit=4&followup.sections=repositories&followup.indepth=false&code.lines=12&code.load=400&code.days=3&code.visibility=public&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&pagespeed.url=.user.website&pagespeed.detailed=false&pagespeed.screenshot=false&config.timezone=Asia%2FColombo)
+
+
 
 **** 
  <!--<a href="https://github.com/Damantha126/handle-path-oz">
@@ -37,7 +39,7 @@ You can use the website to generate badges: https://shields.io/
 <p align="center"> <a href="https://github.com/Damantha126"><img src="https://github-profile-trophy.vercel.app/?username=Damantha126&no-bg=true" alt="Damantha126" /></a> </p>
 
 
-# Contribution Graph <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" width=100px>
+# Contribution Graph <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" width=50px height="80px">
 
 <!--<p align="center">
   <a href="https://github.com/Damantha126">
